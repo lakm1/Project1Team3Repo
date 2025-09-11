@@ -1,5 +1,4 @@
 # Project1Team3Repo
-
 # Country GDP 2020–2025
 
 A data analysis project exploring GDP trends across countries from 2020 to 2025 using Python, reproducible notebooks/scripts, and an interactive Gradio dashboard.
@@ -47,6 +46,18 @@ pip install -r requirements.txt
 
 If downloading via Kaggle API, ensure you’ve configured `~/.kaggle/kaggle.json` and downloaded the dataset into `data/`.
 
+## Requirements
+
+This project requires the following Python libraries:
+- **gradio** – interactive dashboard
+- **pandas** – data manipulation and analysis
+- **matplotlib** – data visualization (static plots)
+- **plotly** – interactive charts
+- **seaborn** – statistical visualizations
+- **numpy** – numerical computations
+- **google.colab** – optional, for running in Google Colab notebooks
+
+All dependencies are listed in `requirements.txt` for easy installation.
 
 ## What’s Included
 
