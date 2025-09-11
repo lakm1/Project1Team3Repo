@@ -12,17 +12,20 @@ This project collects, cleans, analyzes, and visualizes country-level GDP data f
 ## Repository Structure
 
 ```
-country-gdp-2020-2025/
+Project1Team3Repo/
 ├─ data/
 │  ├─ 2020-2025.csv       # Original raw dataset
-│  └─ data_clean.csv      # Cleaned dataset
+│  ├─ data_clean.csv      # Cleaned dataset
+│  └─ data_csv.csv        # Extra dataset copy/variant
+│
 ├─ notebooks/
-│  └─ 01_eda.ipynb        # Exploratory analysis & visuals
-├─ output/
-│  ├─ figures/            # Exported charts
-│  └─ tables/             # Summary tables / CSVs
-├─ requirements.txt
-└─ README.md
+│  ├─ Project1_Team3.ipynb        # Main analysis notebook
+│  └─ ProjectOne-Team3.ipynb      # Alternate/early notebook
+│
+├─ .gitignore              # Git ignore file
+├─ README.md               # Project documentation
+├─ requirements.txt        # Dependencies
+
 ```
 
 ## Installation
