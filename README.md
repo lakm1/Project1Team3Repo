@@ -1,4 +1,3 @@
-# Project1Team3Repo
 # Country GDP 2020–2025
 
 A data analysis project exploring GDP trends across countries from 2020 to 2025 using Python, reproducible notebooks/scripts, and an interactive Gradio dashboard.
